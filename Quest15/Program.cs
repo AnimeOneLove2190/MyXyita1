@@ -10,7 +10,7 @@ namespace Quest15
     {
         static void Main(string[] args)
         {
-            int r1 = int.Parse(Console.ReadLine());
+            double r1 = double.Parse(Console.ReadLine());
             double pi = 3.14;
             double r2 = r1 * r1;
             double s = pi * r2;
