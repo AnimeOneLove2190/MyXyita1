@@ -16,7 +16,7 @@ namespace Quest17
             double rub1 = rub - cms;
             int result = (int)(rub / curs);
             Console.WriteLine(result);
-            Console.WriteLine("Программа завершена. Нажмите Enter для выхода");
+            Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
         }
     }
