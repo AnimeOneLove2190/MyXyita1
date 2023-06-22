@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest8", "Quest8\Quest8.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest9", "Quest9\Quest9.csproj", "{999CF13C-C5E2-4DDA-8FAC-E41DAC1F3750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest10", "Quest10\Quest10.csproj", "{704EBEF4-0913-4F8E-93A0-300607078FDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{999CF13C-C5E2-4DDA-8FAC-E41DAC1F3750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999CF13C-C5E2-4DDA-8FAC-E41DAC1F3750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999CF13C-C5E2-4DDA-8FAC-E41DAC1F3750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704EBEF4-0913-4F8E-93A0-300607078FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704EBEF4-0913-4F8E-93A0-300607078FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704EBEF4-0913-4F8E-93A0-300607078FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704EBEF4-0913-4F8E-93A0-300607078FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
