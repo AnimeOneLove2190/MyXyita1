@@ -18,6 +18,7 @@ namespace Quest17
             Console.WriteLine(result);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

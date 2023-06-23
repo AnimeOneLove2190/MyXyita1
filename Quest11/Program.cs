@@ -17,6 +17,7 @@ namespace Quest11
             Console.WriteLine(mk4);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

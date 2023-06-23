@@ -17,6 +17,7 @@ namespace Quest19
             Console.WriteLine(V);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

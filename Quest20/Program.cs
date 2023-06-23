@@ -16,6 +16,7 @@ namespace Quest20
             Console.WriteLine(mk1);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

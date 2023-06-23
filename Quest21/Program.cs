@@ -16,6 +16,7 @@ namespace Quest21
             Console.WriteLine(mk2);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

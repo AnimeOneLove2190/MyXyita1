@@ -15,6 +15,7 @@ namespace Quest6
             Console.WriteLine(mk1);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

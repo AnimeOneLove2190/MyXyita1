@@ -22,6 +22,7 @@ namespace Quest23
             Console.WriteLine(result);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

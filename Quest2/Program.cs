@@ -21,6 +21,7 @@ namespace Quest2
             Console.WriteLine(result1);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

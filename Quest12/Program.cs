@@ -15,6 +15,7 @@ namespace Quest12
             Console.WriteLine(temp1);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }

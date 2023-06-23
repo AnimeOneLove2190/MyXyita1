@@ -17,6 +17,7 @@ namespace Quest15
             Console.WriteLine(s);
             Console.WriteLine("Программа завершена. Нажмите Enter для выхода.");
             Console.ReadLine();
+            // изменение названия
         }
     }
 }
